@@ -768,7 +768,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -789,7 +789,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/192434-oxnym0-920-copia-1444x964.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -806,7 +806,7 @@
                 "text": "<br>ARQUITECTURA &nbsp;/ &nbsp;COORDINACIÓN BIM &nbsp;/ &nbsp;ELÉCTRICOS &nbsp;/ &nbsp;SANITARIOS &nbsp;/ &nbsp;TOPOGRAFÍA &nbsp;/ &nbsp;ESTUDIOS HIDROLÓGICOS",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.8",
-                "overlayColor": "#767676"
+                "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/39-1500x1000.png",
