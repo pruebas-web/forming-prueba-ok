@@ -1850,11 +1850,14 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-s3Urms0ePS .mbr-section-subtitle {
-  color: #767676;
+  color: #0f1e58;
+}
+.cid-s3Urms0ePS H2 {
+  color: #0f1e58;
 }
 .cid-s3U5xKeyWe {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 75px;
   background-color: #efefef;
 }
 .cid-s3U5xKeyWe .mbr-text {
