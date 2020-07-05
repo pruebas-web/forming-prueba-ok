@@ -806,7 +806,7 @@
                 "text": "<br>ARQUITECTURA &nbsp;/ &nbsp;COORDINACIÓN BIM &nbsp;/ &nbsp;ELÉCTRICOS &nbsp;/ &nbsp;SANITARIOS &nbsp;/ &nbsp;TOPOGRAFÍA &nbsp;/ &nbsp;ESTUDIOS HIDROLÓGICOS",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.8",
-                "overlayColor": "#ada487"
+                "overlayColor": "#767676"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/39-1500x1000.png",
