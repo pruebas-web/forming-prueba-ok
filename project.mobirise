@@ -768,7 +768,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -789,7 +789,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/192434-oxnym0-920-copia-1444x964.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
